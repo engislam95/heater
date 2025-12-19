@@ -7,7 +7,7 @@ The component visualizes a target temperature inside a circular gauge, with fixe
 
 # Run
 
-- git clone https://github.com/engislam95/heater
+- git clone [https://github.com/engislam95/heater](https://github.com/engislam95/heater.git)
 - cd heater
 - npm install
 - npm run dev
